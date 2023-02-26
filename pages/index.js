@@ -7,7 +7,7 @@ import axios from 'axios';
 
 export default function Home() {
 
-  const apiKey = "bb398a35ad8cc193602bdcc9521a14f3";
+  const apiKey = process.env.PUBLIC_API;
   const location = "vancouver";
   const units = "metric";
 
