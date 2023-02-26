@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#231F20;}
+	.st2{fill:#F4AC2C;}
+	.st3{fill:url(#SVGID_1_);}
+</style>
+<pattern  y="1080" width="23" height="23" patternUnits="userSpaceOnUse" id="SVGID_0000012703704348943024691" viewBox="0 -23 23 23" style="overflow:visible;">
+	<g>
+		<rect y="-23" class="st0" width="23" height="23"/>
+		<g>
+			<rect y="-23" class="st0" width="23" height="23"/>
+			<g>
+				<rect y="-23" class="st0" width="23" height="23"/>
+				<ellipse class="st1" cx="1.5" cy="-21.5" rx="1.5" ry="1.5"/>
+			</g>
+		</g>
+	</g>
+</pattern>
+<rect class="st2" width="1920" height="1080"/>
+<pattern  id="SVGID_1_" xlink:href="#SVGID_0000012703704348943024691" patternTransform="matrix(1 0 0 1 -6.8293 15772.8164)">
+</pattern>
+<rect class="st3" width="1920" height="1080"/>
+</svg>
