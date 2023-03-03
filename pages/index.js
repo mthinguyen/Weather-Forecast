@@ -7,7 +7,7 @@ import axios from 'axios';
 
 export default function Home() {
 
-  const apiKey = process.env.PUBLIC_API;
+  const apiKey = "bb398a35ad8cc193602bdcc9521a14f3";
   const location = "vancouver";
   const units = "metric";
 
@@ -62,7 +62,7 @@ export default function Home() {
         }
 
         if (weather.weather[0].main == 'Clouds') {
-          icon = '/weather/clouds.png'
+          icon = '/weather/cloud.png'
         } else if (weather.weather[0].main == 'Clear') {
           icon = '/weather/clear-sky.png'
         } else if (weather.weather[0].main == 'Atmosphere') {
